@@ -1,0 +1,5 @@
+struct Hello {
+  data: "world",
+  name: "john doe",
+  id: 1234,
+}
